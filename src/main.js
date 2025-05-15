@@ -1,3 +1,4 @@
+import './style.css';
 const app = document.getElementById("app");
 app.innerHTML = `
   <div class="w-full max-w-md bg-white bg-opacity-10 rounded-2xl shadow-xl p-6 backdrop-blur-sm text-center">
